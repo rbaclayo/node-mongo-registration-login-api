@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString":"mongodb+srv://ronald:baclayon@cluster0.ztpre.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "connectionString":"mongodb+srv://ronald:baclayon@cluster0.ztpre.mongodb.net/node-mongo-registration-login-api?retryWrites=true&w=majority",
     "secret": "mitty"
 }
